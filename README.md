@@ -1,5 +1,5 @@
 # JIN-and-SEO
-
+공동 프로젝트 JIN-and-[SEO](https://github.com/shw4455)
 # 해야할 일
 1. [] 프로젝트 개요
     1. [] 프로젝트 명
